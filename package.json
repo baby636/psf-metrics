@@ -38,7 +38,7 @@
   "repository": "Permissionless-Software-Foundation/psf-metrics",
   "dependencies": {
     "@psf/bch-js": "^4.16.0",
-    "apidoc": "^0.23.0",
+    "apidoc": "^0.50.0",
     "axios": "^0.21.1",
     "bch-message-lib": "^1.13.4",
     "bch-util": "^1.2.5",
